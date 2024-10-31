@@ -1,4 +1,4 @@
-# Parcial 2 Programacio | Proyecto Integrador
+# Parcial 2 Programación | Proyecto Integrador
 
 # ¿En qué consiste el proyecto?
 
